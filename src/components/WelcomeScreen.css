@@ -1,0 +1,37 @@
+
+.welcome-screen {
+  background-color: #b3cce6;
+  border-radius: 20px;
+  padding: 40px;
+  max-width: 400px;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.welcome-screen h1 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.welcome-screen p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.start-button {
+  background-color: #ff4081;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.start-button:hover {
+  background-color: #e91e63;
+}

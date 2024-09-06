@@ -1,0 +1,21 @@
+/* ThankYouScreen.css */
+.thank-you-screen {
+  background-color: #b3cce6;
+  border-radius: 20px;
+  padding: 40px;
+  max-width: 400px;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.thank-you-screen h1 {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.thank-you-screen p {
+  font-size: 18px;
+  color: #555;
+}
